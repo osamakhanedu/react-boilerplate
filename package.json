@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "osama khan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamakhanedu/react-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/osamakhanedu/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/osamakhanedu/react-boilerplate#readme"
 }
