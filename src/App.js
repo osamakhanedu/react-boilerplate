@@ -1,5 +1,7 @@
+import { hot } from "react-hot-loader/root";
 import React from "react";
 import "./style.css";
+
 class App extends React.Component {
   state = {
     count: 0,
@@ -23,10 +25,10 @@ class App extends React.Component {
         >
           -
         </button>
-        <h1>Hell World!!!</h1>;
+        <h1>Hell World!!</h1>;
       </div>
     );
   }
 }
 
-export default App;
+export default hot(App);
